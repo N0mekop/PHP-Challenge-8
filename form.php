@@ -1,7 +1,3 @@
-<?php
-var_dump($_POST);
-?>
-
 <form  action="/thanks.php" method="post">
     <div>
       <label for="lastname">Nom :</label>
